@@ -1,0 +1,5 @@
+﻿bin/BaiduPCS-Go.exe
+credentials.json
+__pycache__/
+*.pyc
+.dsh-netdisk/
